@@ -1,0 +1,9 @@
+id: pc7-teams-round1
+name: Teams Round 1
+type: example
+award:
+  emoji: 😀
+image: pwncollege/challenge-simple
+modules:
+  - id: t01-challenge1
+  - id: t02-challenge2
