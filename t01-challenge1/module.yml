@@ -1,0 +1,6 @@
+name: Challenge 1
+challenges: 
+  - id: element1
+    name: Element 1
+  - id: element2
+    name: Element 2
