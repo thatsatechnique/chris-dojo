@@ -1,0 +1,6 @@
+services:
+  - name: webserver
+    build: ./webserver
+    ports:
+      - 8000:80
+    privileged: false
