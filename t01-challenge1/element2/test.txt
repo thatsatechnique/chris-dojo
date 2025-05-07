@@ -1,1 +1,2 @@
 This is a test file.  Could be a binary. 
+or nothing at all. 
