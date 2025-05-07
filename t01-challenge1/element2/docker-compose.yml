@@ -1,0 +1,9 @@
+services:
+  webserver:
+    build: webserver
+    ports:
+      - 80:80
+    restart: always
+    environment: 
+      FLAG1: "flag{this_is_the_flag}"
+    
